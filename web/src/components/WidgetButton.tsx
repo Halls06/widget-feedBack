@@ -1,7 +1,6 @@
 import { Popover, PopoverButton, PopoverPanel } from "@headlessui/react"
 import { ChatTeardropDots} from "@phosphor-icons/react"
-import { WidgetForm } from "./WidgetForm"
-
+import { WidgetForm } from "./Widgetform/Index"
 
 export function WidgetButton(){
   return (
